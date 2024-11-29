@@ -1,0 +1,30 @@
+[
+  {
+    "koleksi_digital": "Foto, Gambar dan Lukisan",
+    "jenis_bahan": ["Bahan Campuran", "Bahan Grafis"]
+  },
+  {
+    "koleksi_digital": "Naskah Kuno",
+    "jenis_bahan": ["Manuskrip"]
+  },
+  {
+    "koleksi_digital": "Peta",
+    "jenis_bahan": ["Bahan Kartografis"]
+  },
+  {
+    "koleksi_digital": "Buku Langka",
+    "jenis_bahan": ["Monograf", "Braille"]
+  },
+  {
+    "koleksi_digital": "Majalah dan Surat Kabar Langka",
+    "jenis_bahan": ["Terbitan Berkala"]
+  },
+  {
+    "koleksi_digital": "Audio Visual",
+    "jenis_bahan": ["Rekaman Suara", "Rekaman Video", "Film", "Musik"]
+  },
+  {
+    "koleksi_digital": "2",
+    "jenis_bahan": ["Sumber Elektronik"]
+  }
+]
