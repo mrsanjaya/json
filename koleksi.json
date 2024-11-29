@@ -22,9 +22,5 @@
   {
     "koleksi_digital": "Audio Visual",
     "jenis_bahan": ["Rekaman Suara", "Rekaman Video", "Film", "Musik"]
-  },
-  {
-    "koleksi_digital": "2",
-    "jenis_bahan": ["Sumber Elektronik"]
   }
 ]
