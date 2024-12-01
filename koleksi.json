@@ -1,7 +1,7 @@
 [
   {
     "koleksi_digital": "Foto dan Gambar Lukisan",
-    "jenis_bahan": ["Bahan Campuran", "Bahan Grafis"]
+    "jenis_bahan": ["Bahan Campuran"]
   },
   {
     "koleksi_digital": "Naskah Kuno",
@@ -13,7 +13,7 @@
   },
   {
     "koleksi_digital": "Buku  Langka",
-    "jenis_bahan": ["Monograf", "Braille"]
+    "jenis_bahan": ["Monograf"]
   },
   {
     "koleksi_digital": "Majalah dan Surat Kabar Langka",
@@ -21,6 +21,14 @@
   },
   {
     "koleksi_digital": "Audio Visual",
-    "jenis_bahan": ["Rekaman Suara", "Rekaman Video", "Film", "Musik"]
+    "jenis_bahan": ["Rekaman Suara"]
+  },
+  {
+    "koleksi_digital": "Audio",
+    "jenis_bahan": ["Rekaman Suara"]
+  },
+  {
+    "koleksi_digital": "Visual",
+    "jenis_bahan": ["Rekaman Video"]
   }
 ]
